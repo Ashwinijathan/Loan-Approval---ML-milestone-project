@@ -1,4 +1,5 @@
 **Project Description**
+
 This project aims to build an automated predictive model that determines whether a loan application will be approved or rejected. Traditional loan approval relies heavily on human judgment, which can introduce bias, inconsistency, and delays—especially when processing large volumes of applications. To overcome these limitations, the project utilizes machine learning to analyze demographic, credit-related, financial, and behavioral factors, enabling a more objective and data-driven approval process.
 The model is designed to handle missing or incomplete data and adapt to changing financial conditions. By learning from past applicant profiles and outcomes, the system provides reliable predictions that support faster and fairer loan decisions.
 
